@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg-dark {
+  background-color: #1c1c1c;
+  background-image: url("/HeroBackground.png"); 
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.bg-brown {
+
+  background-image: url("/HomeFooter.png"); 
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
